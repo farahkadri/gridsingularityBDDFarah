@@ -14,4 +14,4 @@ Runner File -->gridsingularityproject\src\main\java\com\gridSingularity\TestRunn
 
 Note- There are reports in this file, But  I havent used it for this project. Sure, we can use reports in long term.
 I have used my mobile project reference for this assignment. Though, for mobile we had different drivers and I had used
-appium for this.
+appium for my mobile project.
