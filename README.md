@@ -4,9 +4,9 @@ I have used BDD Framework for this assignment.
 
 Main Page -->gridsingularityproject\src\main\java\com\gridSingularity\pageObjects
 
-Step Definition File -->gridsingularityproject\src\main\java\com\gridSingularity\stepdefinitions
+MainPageStepdef -->Step Definition File -->gridsingularityproject\src\main\java\com\gridSingularity\stepdefinitions
 
-Feature File -->gridsingularityproject\src\main\java\com\gridSingularity\feature.file
+mainpage.feature-->Feature File -->gridsingularityproject\src\main\java\com\gridSingularity\feature.file
 
 Base File --> gridsingularityproject\src\main\java\com\gridSingularity\testBase
 
